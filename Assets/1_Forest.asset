@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fddafd0b9a85d144eaddb506126da2d9, type: 3}
+  m_Name: 1_Forest
+  m_EditorClassIdentifier: 
+  levelIndex: 2
+  mapName: Forest
+  mapDescription: Dense greenery, wildlife haven
+  nameColor: {r: 0.03137255, g: 0.6, b: 0.25882354, a: 1}
+  mapImage: {fileID: 21300000, guid: 0998d7083a1dbf44795a4f8a7016677e, type: 3}
+  sceneToLoad: {fileID: 102900000, guid: af862aa6e85222048b4ee9226f660bf8, type: 3}
